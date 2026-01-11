@@ -6,11 +6,12 @@ import tkinter as tk
 from tkinter import ttk, messagebox
 
 # --- 配置区域 ---
-DEFAULT_INSTRUCTION = """使用说明：
-1. 在下方输入框中输入搜索关键词。
+DEFAULT_INSTRUCTION = """1. 云盘地址：https://yunpan.tongji.edu.cn/link/AA1F2D357016FA4B61B53E66779AAC63FF
 2. 支持正则表达式搜索，例如：
    - 搜索以"2023"开头的文件：^2023
    - 搜索所有PDF文件：\.pdf$
+3. 当前更新时间：2025年1月11日
+4. 本工具仅供同济大学师生使用，请勿外传。开源地址：https://github.com/gfjdh/tjyunpan-explorer
 """
 # ----------------
 
