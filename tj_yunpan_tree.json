@@ -1,0 +1,2202 @@
+{
+    "【文件库】我没有删掉同学的作业共享": {
+        "type": "folder",
+        "children": {
+            "【材料力学】": {
+                "type": "folder",
+                "children": {
+                    "6 Shearing and Bearing.pdf": {
+                        "type": "file"
+                    },
+                    "补-质量几何和面积几何.pdf": {
+                        "type": "file"
+                    },
+                    "材力.zip": {
+                        "type": "file"
+                    },
+                    "材料力学课件2023.rar": {
+                        "type": "file"
+                    },
+                    "材料力学 同济大学航空航天与力学学院基础力学教学研究部编_12748434.pdf": {
+                        "type": "file"
+                    },
+                    "工程力学答案助教版.rar": {
+                        "type": "file"
+                    },
+                    "工程力学I 吴艾辉（材料力学）.zip": {
+                        "type": "file"
+                    },
+                    "期末总复习1-知识点总结.pdf": {
+                        "type": "file"
+                    },
+                    "期中复习知识点.pdf": {
+                        "type": "file"
+                    },
+                    "gross-engineering mechanics 2-2018-978-3-662-56272-7.pdf": {
+                        "type": "file"
+                    }
+                }
+            },
+            "【操作系统（软工）】": {
+                "type": "folder",
+                "children": {
+                    "操作系统错题集.pdf": {
+                        "type": "file"
+                    },
+                    "操作系统复习20220614.pdf": {
+                        "type": "file"
+                    },
+                    "操作系统复习要点.pdf": {
+                        "type": "file"
+                    },
+                    "操作系统课程课后复习（分节版）.pdf": {
+                        "type": "file"
+                    },
+                    "处理机管理复习(2).doc": {
+                        "type": "file"
+                    },
+                    "课后思考（文件系统）2025.pdf": {
+                        "type": "file"
+                    },
+                    "内存管理复习(2).doc": {
+                        "type": "file"
+                    },
+                    "文件系统模块(2).doc": {
+                        "type": "file"
+                    },
+                    "os综合复习.pdf": {
+                        "type": "file"
+                    }
+                }
+            },
+            "【传感器与信息融合】": {
+                "type": "folder",
+                "children": {
+                    "2025年传感器考点（由期末试题整理得到）.pdf": {
+                        "type": "file"
+                    },
+                    "知识点整理（仅供参考）.pdf": {
+                        "type": "file"
+                    }
+                }
+            },
+            "【大物实验】": {
+                "type": "folder",
+                "children": {
+                    "1_物理实验报告(1).pdf": {
+                        "type": "file"
+                    },
+                    "2023实验PPT-声速测定-霍尔效应-RC电路-Phyphox.pdf": {
+                        "type": "file"
+                    },
+                    "3427538.pdf": {
+                        "type": "file"
+                    },
+                    "大物实验下超星自测答案.pdf": {
+                        "type": "file"
+                    },
+                    "分光计实验数据.pdf": {
+                        "type": "file"
+                    },
+                    "弗兰克-赫兹数据.docx": {
+                        "type": "file"
+                    },
+                    "基于X射线技术的物质分类与识别实验数据截图.rar": {
+                        "type": "file"
+                    },
+                    "金刚石NV色心量子计算实验报告要求及模板.docx": {
+                        "type": "file"
+                    },
+                    "密里根油滴实验计算器（最终版）-作者：清水尚辉.exe": {
+                        "type": "file"
+                    },
+                    "密立根油滴实验计算器.py": {
+                        "type": "file"
+                    },
+                    "密立根油滴实验数据计算器-作者：余梦.exe": {
+                        "type": "file"
+                    },
+                    "气动声学风洞测量虚拟仿真实验数据.xlsx": {
+                        "type": "file"
+                    },
+                    "实验报告模板-巨磁阻效应实验-2024 (1).doc": {
+                        "type": "file"
+                    },
+                    "实验报告模板-巨磁阻效应实验-2024.doc": {
+                        "type": "file"
+                    },
+                    "实验空间-虚拟实验课程班级二维码.pptx": {
+                        "type": "file"
+                    },
+                    "受迫振动.docx": {
+                        "type": "file"
+                    },
+                    "数字全息计算全息综合实验系统实验指导书2024.5.9.doc": {
+                        "type": "file"
+                    },
+                    "数字全息实验回放.mp4": {
+                        "type": "file"
+                    },
+                    "同济大学物理实验报告册答案.pdf": {
+                        "type": "file"
+                    },
+                    "物理实验报告答案.zip": {
+                        "type": "file"
+                    },
+                    "物理实验报告.pdf": {
+                        "type": "file"
+                    },
+                    "物理实验自测题答案.pdf": {
+                        "type": "file"
+                    },
+                    "【新模板讲义】桥梁振动测量实验(1).docx": {
+                        "type": "file"
+                    },
+                    "在线提交物理实验报告的说明.docx": {
+                        "type": "file"
+                    },
+                    "自测题答案（下）.rar": {
+                        "type": "file"
+                    },
+                    "自选实验项目-受迫振动&桥梁振动.pptx": {
+                        "type": "file"
+                    },
+                    "【Dawn_zed】部分大物实验(1).pdf": {
+                        "type": "file"
+                    },
+                    "phyphox（安卓系统手机的手机物理工坊app）.zip": {
+                        "type": "file"
+                    }
+                }
+            },
+            "【大学计算机】": {
+                "type": "folder",
+                "children": {
+                    "2023大学计算机模拟题.docx": {
+                        "type": "file"
+                    },
+                    "Python入门.pdf": {
+                        "type": "file"
+                    }
+                }
+            },
+            "【大学美育】": {
+                "type": "folder",
+                "children": {
+                    "2023大学美育讲稿（校对版）.docx": {
+                        "type": "file"
+                    },
+                    "大学美育最终合订本.pdf": {
+                        "type": "file"
+                    }
+                }
+            },
+            "【大学物理】": {
+                "type": "folder",
+                "children": {
+                    "2015-2016普通物理B上期末考试卷+答案.pdf": {
+                        "type": "file"
+                    },
+                    "变化的电磁场-1.pdf": {
+                        "type": "file"
+                    },
+                    "大学物理（上下册）-同济大学题库.pdf": {
+                        "type": "file"
+                    },
+                    "第15章-量子物理(二)-课件.pdf": {
+                        "type": "file"
+                    },
+                    "第15章-量子物理(一)-课件.pdf": {
+                        "type": "file"
+                    },
+                    "电磁学复习题解答.pdf": {
+                        "type": "file"
+                    },
+                    "光学和量子力学复习题解答.pdf": {
+                        "type": "file"
+                    },
+                    "课程小结（波动光学 量子）.pdf": {
+                        "type": "file"
+                    },
+                    "课程小结（电磁学）.pdf": {
+                        "type": "file"
+                    },
+                    "力学，振动和波动+.pdf": {
+                        "type": "file"
+                    },
+                    "目录_学年第一学期期未考试试卷参考.pdf": {
+                        "type": "file"
+                    },
+                    "普通物理期末复习（电磁学）练习.pdf": {
+                        "type": "file"
+                    },
+                    "普通物理期末复习（光学和量子力学）练习.pdf": {
+                        "type": "file"
+                    },
+                    "普通物理B上复习课.pptx": {
+                        "type": "file"
+                    },
+                    "普物B下模拟答案.pdf": {
+                        "type": "file"
+                    },
+                    "普物B下模拟.pdf": {
+                        "type": "file"
+                    },
+                    "清华大学大学物理题库-latex by Argo.pdf": {
+                        "type": "file"
+                    },
+                    "热力学与分子动理论+.pdf": {
+                        "type": "file"
+                    },
+                    "[荣]量子物理_算符 微扰.pdf": {
+                        "type": "file"
+                    },
+                    "【王旭】《大学物理》拓展练习.pdf": {
+                        "type": "file"
+                    },
+                    "【王旭】课程小结（上）.pdf": {
+                        "type": "file"
+                    },
+                    "【王旭】课程小结（下）.pdf": {
+                        "type": "file"
+                    },
+                    "物理B(下)总复习2024.pdf": {
+                        "type": "file"
+                    },
+                    "相对论+.pdf": {
+                        "type": "file"
+                    },
+                    "【Dawn_zed】大学物理（上）思维导图.pdf": {
+                        "type": "file"
+                    },
+                    "【EndlessTwilight】大物笔记乱写(两个学期都有了).zip": {
+                        "type": "file"
+                    }
+                }
+            },
+            "【电工学电子技术（机械）】": {
+                "type": "folder",
+                "children": {
+                    "课件": {
+                        "type": "folder",
+                        "children": {
+                            "第14章小结.pdf": {
+                                "type": "file"
+                            },
+                            "第14章ppt.pdf": {
+                                "type": "file"
+                            },
+                            "第15章小结.pdf": {
+                                "type": "file"
+                            },
+                            "第15章PPT.pdf": {
+                                "type": "file"
+                            },
+                            "第16章小结.pdf": {
+                                "type": "file"
+                            },
+                            "第16章ppt.pdf": {
+                                "type": "file"
+                            },
+                            "第17章小结.pdf": {
+                                "type": "file"
+                            },
+                            "第17章ppt.pdf": {
+                                "type": "file"
+                            },
+                            "第20章小结.pdf": {
+                                "type": "file"
+                            },
+                            "第20章ppt.pdf": {
+                                "type": "file"
+                            },
+                            "第21章小结.pdf": {
+                                "type": "file"
+                            },
+                            "第21章ppt.pdf": {
+                                "type": "file"
+                            }
+                        }
+                    },
+                    "第7章PPT.pdf": {
+                        "type": "file"
+                    },
+                    "第8章小结.pdf": {
+                        "type": "file"
+                    },
+                    "第8章PPT.pdf": {
+                        "type": "file"
+                    },
+                    "电工学（电子技术）全程学习指导与习题精解 高教第7版_ (Z-Library).pdf": {
+                        "type": "file"
+                    },
+                    "电工学 秦曾煌 第七版 下册 (秦曾煌 姜三勇) (Z-Library).pdf": {
+                        "type": "file"
+                    },
+                    "电工学（少学时）（第五版） (唐介，王宁主编) (Z-Library).pdf": {
+                        "type": "file"
+                    },
+                    "电工学（少学时）（第五版）学习辅导与习题解答 (唐介，_ (Z-Library).pdf": {
+                        "type": "file"
+                    },
+                    "电工学习题-张继和.pdf": {
+                        "type": "file"
+                    },
+                    "电工学（下册） 电工技术辅导及习题精解 秦曾煌 第7版_ (Z-Library).pdf": {
+                        "type": "file"
+                    },
+                    "电工学  下  电子技术_12316680.pdf": {
+                        "type": "file"
+                    },
+                    "电工学.pdf": {
+                        "type": "file"
+                    },
+                    "电路分析方法-2.ppt": {
+                        "type": "file"
+                    },
+                    "电子技术 1.绪论.pdf": {
+                        "type": "file"
+                    },
+                    "电子技术-2.半导体器件.pdf": {
+                        "type": "file"
+                    },
+                    "电子技术-3.单管放大器.pdf": {
+                        "type": "file"
+                    },
+                    "电子技术辅导及习题精解  下  电工学  秦曾煌第7版_13533687.pdf": {
+                        "type": "file"
+                    },
+                    "模拟题.pdf": {
+                        "type": "file"
+                    },
+                    "【王晶晶】电工学（上）课件.rar": {
+                        "type": "file"
+                    }
+                }
+            },
+            "【电路】": {
+                "type": "folder",
+                "children": {
+                    "电路第八章课件例题.pdf": {
+                        "type": "file"
+                    },
+                    "电路第二章课件例题.pdf": {
+                        "type": "file"
+                    },
+                    "电路第九章课件例题.pdf": {
+                        "type": "file"
+                    },
+                    "电路第七章课件例题.pdf": {
+                        "type": "file"
+                    },
+                    "电路第三章课件例题.pdf": {
+                        "type": "file"
+                    },
+                    "电路第四章课件例题.pdf": {
+                        "type": "file"
+                    },
+                    "电路第一章课件例题.pdf": {
+                        "type": "file"
+                    },
+                    "电路期末_202406262327_05366.pdf": {
+                        "type": "file"
+                    },
+                    "电路 -- 邱关源，罗先觉主编 -- 高等教育出版社 -- 162322357c1785d3d49f675ea0dcbdd6 -- Anna’s Archive.pdf": {
+                        "type": "file"
+                    },
+                    "期末复习——电路理论.pdf": {
+                        "type": "file"
+                    },
+                    "chapter1.pptx": {
+                        "type": "file"
+                    }
+                }
+            },
+            "【电路实验】": {
+                "type": "folder",
+                "children": {
+                    "12、交流电路阻抗参数的测量实验.doc": {
+                        "type": "file"
+                    },
+                    "13 功率因数的提高的实验.doc": {
+                        "type": "file"
+                    },
+                    "14、交流电路中的互感实验.doc": {
+                        "type": "file"
+                    },
+                    "14交流电路中的互感实验.pptx": {
+                        "type": "file"
+                    },
+                    "15-16.pptx": {
+                        "type": "file"
+                    },
+                    "15 三相电路的电压与电流实验.doc": {
+                        "type": "file"
+                    },
+                    "16 三相电路的功率测量实验.doc": {
+                        "type": "file"
+                    },
+                    "2、二端元件伏安特性的测量.doc": {
+                        "type": "file"
+                    },
+                    "3.10串联谐振电路的研究实验.doc": {
+                        "type": "file"
+                    },
+                    "6、叠加定理的验证实验.doc": {
+                        "type": "file"
+                    },
+                    "电路实验1实验室安全与实验装置介绍 (1).pptx": {
+                        "type": "file"
+                    },
+                    "电路实验1实验室安全与实验装置介绍.pptx": {
+                        "type": "file"
+                    },
+                    "电路实验5含有受控源的直流电路研究.pdf": {
+                        "type": "file"
+                    },
+                    "电路实验7戴维南定理和诺顿定理的验证.docx": {
+                        "type": "file"
+                    },
+                    "电路实验8常用电子仪器的使用.docx": {
+                        "type": "file"
+                    },
+                    "电路实验9-10 过渡过程及串联谐振实验.pdf": {
+                        "type": "file"
+                    },
+                    "电路实验9-10.pptx": {
+                        "type": "file"
+                    },
+                    "电路实验基础.pdf": {
+                        "type": "file"
+                    },
+                    "实验报告模板.pdf": {
+                        "type": "file"
+                    }
+                }
+            },
+            "【概率论与数理统计】": {
+                "type": "folder",
+                "children": {
+                    "4第四章（改）.pptx": {
+                        "type": "file"
+                    },
+                    "5第五章（改）.pptx": {
+                        "type": "file"
+                    },
+                    "6第六章.pptx": {
+                        "type": "file"
+                    },
+                    "第七章（改）.pptx": {
+                        "type": "file"
+                    },
+                    "复习题解答(1).pdf": {
+                        "type": "file"
+                    },
+                    "复习题.pdf": {
+                        "type": "file"
+                    },
+                    "概率论第一章.pptx": {
+                        "type": "file"
+                    },
+                    "概率论期末试卷20242025(1)B.docx": {
+                        "type": "file"
+                    },
+                    "概率论期末题.docx": {
+                        "type": "file"
+                    },
+                    "概率论期中练习题A 1.pdf": {
+                        "type": "file"
+                    },
+                    "概率论期中练习题A.pdf": {
+                        "type": "file"
+                    },
+                    "概率论期中练习.pdf": {
+                        "type": "file"
+                    },
+                    "概率论期中模拟4（小红书） 1.pdf": {
+                        "type": "file"
+                    },
+                    "概率论期中模拟4（小红书）.pdf": {
+                        "type": "file"
+                    },
+                    "概率论 《原神》版教学辅导用书 试读 (1).pdf": {
+                        "type": "file"
+                    },
+                    "概率论 《原神》版教学辅导用书 试读.pdf": {
+                        "type": "file"
+                    },
+                    "试卷宝_概率论期中练习_1731316404498.pdf": {
+                        "type": "file"
+                    },
+                    "【随便记的】概率论笔记.pdf": {
+                        "type": "file"
+                    },
+                    "A2卷解答.pdf": {
+                        "type": "file"
+                    },
+                    "probability_cheatsheet.pdf": {
+                        "type": "file"
+                    }
+                }
+            },
+            "【高程】": {
+                "type": "folder",
+                "children": {
+                    "23编程作业答案-清水尚辉-仅供参考-切勿抄袭-后果自负.7z": {
+                        "type": "file"
+                    },
+                    "23编程作业合集.7z": {
+                        "type": "file"
+                    },
+                    "23高程课件.7z": {
+                        "type": "file"
+                    },
+                    "23文档作业合集.7z": {
+                        "type": "file"
+                    },
+                    "24251-020001-W0101.第02模块 数据类型、变量与常量、运算符与表达式.pdf": {
+                        "type": "file"
+                    },
+                    "24251-020001-W0101.附录（完整的ASCII码表 - 含扩展ASCII码）.pdf": {
+                        "type": "file"
+                    },
+                    "24251-020001-W0101.附录（A-数制+B-保留字+C-ASCII码+D-运算符优先级与结合性）.pdf": {
+                        "type": "file"
+                    },
+                    "Electron-SIMGUI.V1.1.0-代码查重工具.7z": {
+                        "type": "file"
+                    },
+                    "txt-compare-tool-清水尚辉-v1.3.2.7z": {
+                        "type": "file"
+                    },
+                    "txt-compare-tool下载链接.txt": {
+                        "type": "file"
+                    }
+                }
+            },
+            "【高等代数】": {
+                "type": "folder",
+                "children": {
+                    "2024-2025学年第二学期高等代数华班期末试卷A-参考解答.pdf": {
+                        "type": "file"
+                    },
+                    "练习六参考解答.pdf": {
+                        "type": "file"
+                    },
+                    "练习四参考解答.pdf": {
+                        "type": "file"
+                    },
+                    "练习五参考解答.pdf": {
+                        "type": "file"
+                    },
+                    "【Kalinite_2004】高等代数.pdf": {
+                        "type": "file"
+                    }
+                }
+            },
+            "【高等数学】": {
+                "type": "folder",
+                "children": {
+                    "17-18（二）高数AB（下）期末A卷答案.pdf": {
+                        "type": "file"
+                    },
+                    "18-19（二）高数B (下) 期末试卷答案A卷 .pdf": {
+                        "type": "file"
+                    },
+                    "20-21（二）高数AB（下）期末A卷答案.pdf": {
+                        "type": "file"
+                    },
+                    "20-21（一）高数AB（上）期末A卷答案 (1).pdf": {
+                        "type": "file"
+                    },
+                    "2025武忠祥高等数学基础篇 (武忠祥) (Z-Library).pdf": {
+                        "type": "file"
+                    },
+                    "2026武忠祥高等数学基础篇.pdf": {
+                        "type": "file"
+                    },
+                    "22-23（二 ）高数AB 下期末A卷答案.pdf": {
+                        "type": "file"
+                    },
+                    "25张宇基础30讲-高数.pdf": {
+                        "type": "file"
+                    },
+                    "（笔记）高数下自用_202506161354_25400.pdf": {
+                        "type": "file"
+                    },
+                    "不定积分计算测试100题.docx": {
+                        "type": "file"
+                    },
+                    "高等数学（1）答疑 (1).pdf": {
+                        "type": "file"
+                    },
+                    "高等数学（1）答疑.pdf": {
+                        "type": "file"
+                    },
+                    "高等数学（2）答疑.pdf": {
+                        "type": "file"
+                    },
+                    "『高清、无码』(高数上期末试题の露出).pdf": {
+                        "type": "file"
+                    },
+                    "高数（1）习题册（自同济教材）.pdf": {
+                        "type": "file"
+                    },
+                    "高数（2）习题册（自同济教材）.pdf": {
+                        "type": "file"
+                    },
+                    "高数期中压轴-修订(1).pdf": {
+                        "type": "file"
+                    },
+                    "高数上期中压轴 --TAFFY.pdf": {
+                        "type": "file"
+                    },
+                    "高数下定理公式速通版.pdf": {
+                        "type": "file"
+                    },
+                    "【黄长水】上册期末复习.pptx": {
+                        "type": "file"
+                    },
+                    "吉米多维奇——高等数学习题精选精解.pdf": {
+                        "type": "file"
+                    },
+                    "【刘刈】极限必做150题（一）.pdf": {
+                        "type": "file"
+                    },
+                    "普林斯顿微积分读本.pdf": {
+                        "type": "file"
+                    },
+                    "微积分下册期终复习试卷(B)答案.doc": {
+                        "type": "file"
+                    },
+                    "微积分下册期终复习试卷(B).doc": {
+                        "type": "file"
+                    },
+                    "【无答案】17-18（二）高数AB（下）期末A卷.pdf": {
+                        "type": "file"
+                    },
+                    "【无答案】18-19（二）高数B (下) 期末试卷A卷 .pdf": {
+                        "type": "file"
+                    },
+                    "【无答案】20-21（二）高数AB（下）期末A卷.pdf": {
+                        "type": "file"
+                    },
+                    "【无答案】22-23（二 ）高数AB 下期末A卷.pdf": {
+                        "type": "file"
+                    },
+                    "【姚勤】高数B笔记上册.pdf": {
+                        "type": "file"
+                    },
+                    "【姚勤】高数B笔记下册.pdf": {
+                        "type": "file"
+                    },
+                    "总复习（下）.ppt": {
+                        "type": "file"
+                    },
+                    "【EndlessTwilight】高等数学上册思维导图（二）.pdf": {
+                        "type": "file"
+                    },
+                    "【EndlessTwilight】高等数学上册思维导图 (一).pdf": {
+                        "type": "file"
+                    },
+                    "qsr的插值论文.pdf": {
+                        "type": "file"
+                    }
+                }
+            },
+            "【工程地质】": {
+                "type": "folder",
+                "children": {
+                    "工程地质.zip": {
+                        "type": "file"
+                    }
+                }
+            },
+            "【工程实践】": {
+                "type": "folder",
+                "children": {
+                    "2250654杨恩本-工程实践周记 .docx": {
+                        "type": "file"
+                    },
+                    "【讷言】工程实践知识点总结.pdf": {
+                        "type": "file"
+                    },
+                    "(上课提前瞎抄会有老师找你麻烦的，认真听课，不到万不得已不要抄)同济大学工程实践实用手册2020版.pdf": {
+                        "type": "file"
+                    },
+                    "周记图片.rar": {
+                        "type": "file"
+                    },
+                    "ab8dd04cce8cbc478a1454bbb40248fb.par.temp": {
+                        "type": "file"
+                    },
+                    "TJ_University.rar": {
+                        "type": "file"
+                    }
+                }
+            },
+            "【工热】": {
+                "type": "folder",
+                "children": {
+                    "04 理想气体的热力过程及气体压缩.pdf": {
+                        "type": "file"
+                    },
+                    "05 热力学第二定律.pdf": {
+                        "type": "file"
+                    },
+                    "07 水蒸气.pdf": {
+                        "type": "file"
+                    },
+                    "08 湿空气_250516_150302 (1).pdf": {
+                        "type": "file"
+                    },
+                    "09气体和蒸汽的流动_250606_135006 (1).pdf": {
+                        "type": "file"
+                    },
+                    "10 动力循环_250606_141523 (1).pdf": {
+                        "type": "file"
+                    }
+                }
+            },
+            "【管理学】": {
+                "type": "folder",
+                "children": {
+                    "1 管理导论.pptx": {
+                        "type": "file"
+                    },
+                    "管理学概论_zjw_期末作业.pdf": {
+                        "type": "file"
+                    }
+                }
+            },
+            "【互换性与技术测量（机械）】": {
+                "type": "folder",
+                "children": {
+                    "笔记": {
+                        "type": "folder",
+                        "children": {
+                            "【随便记的】互换性测量笔记.pdf": {
+                                "type": "file"
+                            }
+                        }
+                    },
+                    "课件": {
+                        "type": "folder",
+                        "children": {
+                            "1 第一章  绪论(2023.2).pdf": {
+                                "type": "file"
+                            },
+                            "2 第二章 光滑圆柱体结合的公差与配合(2023-2).pdf": {
+                                "type": "file"
+                            },
+                            "3 第三章 测量技术基础(2019-7).pdf": {
+                                "type": "file"
+                            },
+                            "4 第四章 几何公差及几何检测-2(2020-5).pdf": {
+                                "type": "file"
+                            },
+                            "5 第五章 表面粗超度(2019-7).pdf": {
+                                "type": "file"
+                            },
+                            "6 第六章 光滑工件尺寸的检测(2019-7).pdf": {
+                                "type": "file"
+                            },
+                            "7 第七章 滚动轴承与孔、轴结合的互换性(2019-7).pdf": {
+                                "type": "file"
+                            },
+                            "8 第十章 螺纹结合的互换性(2020-12).pdf": {
+                                "type": "file"
+                            },
+                            "9 第十二章  圆柱齿轮传动的互换性(2019-7).pdf": {
+                                "type": "file"
+                            },
+                            "互换性与测量技术基础.pdf": {
+                                "type": "file"
+                            }
+                        }
+                    },
+                    "期末题": {
+                        "type": "folder",
+                        "children": {
+                            "互换性-2005-2007.pdf": {
+                                "type": "file"
+                            },
+                            "互换性-2008-2009.doc": {
+                                "type": "file"
+                            },
+                            "互换性期末题.pdf": {
+                                "type": "file"
+                            },
+                            "互换性-未知复习题1.doc": {
+                                "type": "file"
+                            },
+                            "互换性-未知复习题-2.doc": {
+                                "type": "file"
+                            },
+                            "互换性-未知复习题-3.doc": {
+                                "type": "file"
+                            }
+                        }
+                    }
+                }
+            },
+            "【机械工程材料】": {
+                "type": "folder",
+                "children": {
+                    "2021-01-25  机械工程材料线上辅导视频.rar": {
+                        "type": "file"
+                    },
+                    "第1章作业点评与第2章授课视频.rar": {
+                        "type": "file"
+                    },
+                    "第2章作业点评与第3章（1）授课视频.rar": {
+                        "type": "file"
+                    },
+                    "第3章（2）与第四章（1）授课视频.rar": {
+                        "type": "file"
+                    },
+                    "第3章作业点评与第4章（2）授课视频.rar": {
+                        "type": "file"
+                    },
+                    "第4章作业点评与第5章（1）授课视频.rar": {
+                        "type": "file"
+                    },
+                    "第5章（2）授课视频.rar": {
+                        "type": "file"
+                    },
+                    "侯泽然机械工程材料.zip": {
+                        "type": "file"
+                    },
+                    "习题讲评.pptx": {
+                        "type": "file"
+                    },
+                    "【洋芋卷】机械工程材料课件及习题.rar": {
+                        "type": "file"
+                    },
+                    "d92dfd8c8b61c4e0862f6040b1df9140.par.temp": {
+                        "type": "file"
+                    },
+                    "tjjx机械工程材料资料包【密码：tjjx】.zip": {
+                        "type": "file"
+                    }
+                }
+            },
+            "【机械设计】": {
+                "type": "folder",
+                "children": {
+                    "答案": {
+                        "type": "folder",
+                        "children": {
+                            "濮良贵《机械设计》（第10版）笔记和课后习题（含考研真题）详解(1).pdf": {
+                                "type": "file"
+                            }
+                        }
+                    },
+                    "机械设计手册": {
+                        "type": "folder",
+                        "children": {
+                            "1材料及结构设计-机械设计手册 第六版 第1卷.PDF": {
+                                "type": "file"
+                            },
+                            "2轴及其连接-机械设计手册 第六版 第2卷.PDF": {
+                                "type": "file"
+                            },
+                            "3机械传动-机械设计手册 第六版 第3卷.PDF": {
+                                "type": "file"
+                            },
+                            "4机械传动-机械设计手册 第六版 第4卷.PDF": {
+                                "type": "file"
+                            },
+                            "5机械传动-机械设计手册 第六版 第5卷.PDF": {
+                                "type": "file"
+                            }
+                        }
+                    },
+                    "机械设计手册 第六版": {
+                        "type": "folder",
+                        "children": {
+                            "1材料及结构设计-机械设计手册 第六版 第1卷.PDF": {
+                                "type": "file"
+                            },
+                            "2轴及其连接-机械设计手册 第六版 第2卷.PDF": {
+                                "type": "file"
+                            },
+                            "3机械传动-机械设计手册 第六版 第3卷.PDF": {
+                                "type": "file"
+                            },
+                            "4机械传动-机械设计手册 第六版 第4卷.PDF": {
+                                "type": "file"
+                            },
+                            "5机械传动-机械设计手册 第六版 第5卷.PDF": {
+                                "type": "file"
+                            }
+                        }
+                    },
+                    "课件": {
+                        "type": "folder",
+                        "children": {
+                            "机械设计ch1_2.ppt": {
+                                "type": "file"
+                            },
+                            "机械设计ch3.ppsx": {
+                                "type": "file"
+                            },
+                            "CH02.ppt": {
+                                "type": "file"
+                            },
+                            "CH03.ppt": {
+                                "type": "file"
+                            },
+                            "CH05.ppt": {
+                                "type": "file"
+                            },
+                            "CH06.ppt": {
+                                "type": "file"
+                            },
+                            "CH08.ppt": {
+                                "type": "file"
+                            },
+                            "Ch10.ppt": {
+                                "type": "file"
+                            },
+                            "CH12.ppt": {
+                                "type": "file"
+                            },
+                            "CH13.ppt": {
+                                "type": "file"
+                            },
+                            "Ch14.ppt": {
+                                "type": "file"
+                            },
+                            "CH15.ppt": {
+                                "type": "file"
+                            }
+                        }
+                    },
+                    "模拟卷": {
+                        "type": "folder",
+                        "children": {
+                            "机械设计5-30(1).pptx": {
+                                "type": "file"
+                            },
+                            "机械设计历年题.pdf": {
+                                "type": "file"
+                            },
+                            "机械设计模拟卷1.doc": {
+                                "type": "file"
+                            },
+                            "机械设计模拟卷2.doc": {
+                                "type": "file"
+                            },
+                            "机械设计模拟卷3.doc": {
+                                "type": "file"
+                            },
+                            "机械设计模拟卷4.doc": {
+                                "type": "file"
+                            },
+                            "机械设计模拟卷5.doc": {
+                                "type": "file"
+                            },
+                            "机械设计样卷.doc": {
+                                "type": "file"
+                            },
+                            "模拟试题.pdf": {
+                                "type": "file"
+                            },
+                            "同济大学+机械设计+2003-2004年第一学期考试试题（B卷）.doc": {
+                                "type": "file"
+                            }
+                        }
+                    },
+                    "《机械设计》背诵笔记.docx": {
+                        "type": "file"
+                    },
+                    "机械设计  第10版_14743852.pdf": {
+                        "type": "file"
+                    },
+                    "机械设计模拟试题.pdf": {
+                        "type": "file"
+                    },
+                    "濮良贵《机械设计》（第10版）笔记和课后习题（含考研真题）详解(1).pdf": {
+                        "type": "file"
+                    },
+                    "（三、四版通用）机械设计作业集答案.pdf": {
+                        "type": "file"
+                    },
+                    "【学不明白】机械设计笔记.pdf": {
+                        "type": "file"
+                    }
+                }
+            },
+            "【机械设计基础】": {
+                "type": "folder",
+                "children": {
+                    "机械设计基础答案（课本）.doc": {
+                        "type": "file"
+                    },
+                    "机械设计基础(第五版)（OCR文字版） (奚鹰,李兴华主编) (Z-Library).pdf": {
+                        "type": "file"
+                    },
+                    "机械设计基础.zip": {
+                        "type": "file"
+                    },
+                    "机械设计ch1_2.ppt": {
+                        "type": "file"
+                    },
+                    "机械设计ch3.ppsx": {
+                        "type": "file"
+                    }
+                }
+            },
+            "【机械设计课程设计】": {
+                "type": "folder",
+                "children": {
+                    "1851889 郑博源 设计计算说明书.docx": {
+                        "type": "file"
+                    },
+                    "1851889 郑博源 提交正式版.zip": {
+                        "type": "file"
+                    },
+                    "1852227 任虹宇 设计计算说明书.docx": {
+                        "type": "file"
+                    },
+                    "1852227 任虹宇  提交正式版.zip": {
+                        "type": "file"
+                    },
+                    "机械设计课程设计(1).ppt": {
+                        "type": "file"
+                    },
+                    "机械设计课程设计 (李兴华) (Z-Library).pdf": {
+                        "type": "file"
+                    }
+                }
+            },
+            "【机械原理】": {
+                "type": "folder",
+                "children": {
+                    "【刘敏】机械原理课件.rar": {
+                        "type": "file"
+                    }
+                }
+            },
+            "【机械原理课程设计】": {
+                "type": "folder",
+                "children": {
+                    "[2025年暑期]“机械原理课程设计”个人作业.pdf": {
+                        "type": "file"
+                    },
+                    "机械原理课程设计（第9--13题）.pdf": {
+                        "type": "file"
+                    },
+                    "MATLAB基础及工程应用 - 20240723.pdf": {
+                        "type": "file"
+                    }
+                }
+            },
+            "【机械制图或画法几何或建筑工程制图】": {
+                "type": "folder",
+                "children": {
+                    "2023画法几何模拟试卷.pdf": {
+                        "type": "file"
+                    },
+                    "答案乱码版本.pdf": {
+                        "type": "file"
+                    },
+                    "工程制图徐俊作业.zip": {
+                        "type": "file"
+                    },
+                    "画法几何习题集（第三版）答案 (1).pdf": {
+                        "type": "file"
+                    },
+                    "机械制图答案.pdf": {
+                        "type": "file"
+                    },
+                    "建工制图答案.pdf": {
+                        "type": "file"
+                    },
+                    "A20222301机械制图2期末考试试卷A(1)(1).pdf": {
+                        "type": "file"
+                    },
+                    "【micheleyu】机图总结本.pdf": {
+                        "type": "file"
+                    }
+                }
+            },
+            "【计算机网络】": {
+                "type": "folder",
+                "children": {
+                    "计算机网络 (谢希仁) (Z-Library).pdf": {
+                        "type": "file"
+                    }
+                }
+            },
+            "【计算机网络（软工）】": {
+                "type": "folder",
+                "children": {
+                    "2025年王道计算机网络考研复习指导 (--) (Z-Library).pdf": {
+                        "type": "file"
+                    },
+                    "计算机网络复习笔记.pdf": {
+                        "type": "file"
+                    },
+                    "计算机网络复习重点.pdf": {
+                        "type": "file"
+                    },
+                    "计算机网络 (谢希仁) (Z-Library).pdf": {
+                        "type": "file"
+                    },
+                    "计算机网络（原书第7版） 自顶向下方法 (James F. Kurose Keith W. Ross) (Z-Library).pdf": {
+                        "type": "file"
+                    },
+                    "计算机网络SWDT复习.pdf": {
+                        "type": "file"
+                    },
+                    "计网期末考试题.pdf": {
+                        "type": "file"
+                    },
+                    "computer-network(14).pdf": {
+                        "type": "file"
+                    }
+                }
+            },
+            "【计算机网络实验（软工）】": {
+                "type": "folder",
+                "children": {
+                    "计网实验报告-严海洲班(合并)_PDF.pdf": {
+                        "type": "file"
+                    }
+                }
+            },
+            "【计算机系统结构】": {
+                "type": "folder",
+                "children": {
+                    "计算机系统结构（第2版）普通高等教育“十一五”国家级规划教材 (张晨曦.).pdf": {
+                        "type": "file"
+                    }
+                }
+            },
+            "【计算机系统结构（软工）】": {
+                "type": "folder",
+                "children": {
+                    "计算机系统结构（第2版）普通高等教育“十一五”国家级规划教材 (张晨曦.).pdf": {
+                        "type": "file"
+                    },
+                    "计算机系统结构期末考试.pdf": {
+                        "type": "file"
+                    },
+                    "计算机系统结构学习指导与题解_PDF电子书下载_带书签目录_完整版(1).pdf": {
+                        "type": "file"
+                    },
+                    "期末卷子答案-1.doc": {
+                        "type": "file"
+                    },
+                    "完整版计算机体系结构课后习题原版答案-张晨曦著.pdf": {
+                        "type": "file"
+                    },
+                    "系统结构笔记_202506172009_05325.pdf": {
+                        "type": "file"
+                    },
+                    "系统结构课程不要求的内容(all).docx": {
+                        "type": "file"
+                    },
+                    "指令级并行（Tomasulo算法）-1.pdf": {
+                        "type": "file"
+                    },
+                    "computer-architecture-concept.pdf": {
+                        "type": "file"
+                    },
+                    "computer-architecture-review.pdf": {
+                        "type": "file"
+                    }
+                }
+            },
+            "【计算机组成原理】": {
+                "type": "folder",
+                "children": {
+                    "4_计算机组成原理填空复习.docx": {
+                        "type": "file"
+                    },
+                    "计组复习背诵提纲.pdf": {
+                        "type": "file"
+                    },
+                    "计组原理实验 (1).zip": {
+                        "type": "file"
+                    },
+                    "计组原理实验.zip": {
+                        "type": "file"
+                    },
+                    "计组原理.zip": {
+                        "type": "file"
+                    }
+                }
+            },
+            "【建筑力学】": {
+                "type": "folder",
+                "children": {
+                    "建筑力学笔记.pdf": {
+                        "type": "file"
+                    }
+                }
+            },
+            "【结构力学】": {
+                "type": "folder",
+                "children": {
+                    "20250427-25kg (1).csv": {
+                        "type": "file"
+                    },
+                    "20250427-50kg (1).csv": {
+                        "type": "file"
+                    },
+                    "结构力学（上册） (朱慈勉、张伟平) (Z-Library).pdf": {
+                        "type": "file"
+                    },
+                    "结构力学（下册） (朱慈勉、张伟平) (Z-Library).pdf": {
+                        "type": "file"
+                    },
+                    "《结构力学》朱慈勉答案全套 (unknown) (Z-Library).pdf": {
+                        "type": "file"
+                    },
+                    "结力I作业答案.rar": {
+                        "type": "file"
+                    },
+                    "实验报告.docx": {
+                        "type": "file"
+                    }
+                }
+            },
+            "【近代史纲要】": {
+                "type": "folder",
+                "children": {
+                    "近纲-重点知识点整理(黄金笔记).pdf": {
+                        "type": "file"
+                    },
+                    "中国近现代史纲要复习_202412032338_20236.pdf": {
+                        "type": "file"
+                    }
+                }
+            },
+            "【军事理论】": {
+                "type": "folder",
+                "children": {
+                    "军理章检测极致压缩版.docx": {
+                        "type": "file"
+                    },
+                    "军事理论复习提纲及答案.pdf": {
+                        "type": "file"
+                    },
+                    "军事理论复习.pdf": {
+                        "type": "file"
+                    },
+                    "军事理论考试题(二).pdf": {
+                        "type": "file"
+                    },
+                    "军事理论考试题(一).pdf": {
+                        "type": "file"
+                    },
+                    "智慧树知到军事理论答案.pdf": {
+                        "type": "file"
+                    }
+                }
+            },
+            "【军训】": {
+                "type": "folder",
+                "children": {
+                    "同济大学2023级军训计划（参训学生用）.pdf": {
+                        "type": "file"
+                    },
+                    "同济大学2023级军训计划（嘉定）.pdf": {
+                        "type": "file"
+                    }
+                }
+            },
+            "【考研政治】": {
+                "type": "folder",
+                "children": {
+                    "00.【整册】2026考研政治《核心考案》-徐涛.pdf": {
+                        "type": "file"
+                    }
+                }
+            },
+            "#【科技】": {
+                "type": "folder",
+                "children": {
+                    "度盘教程.png": {
+                        "type": "file"
+                    },
+                    "Github网址链接 (1).txt": {
+                        "type": "file"
+                    },
+                    "Github网址链接.txt": {
+                        "type": "file"
+                    }
+                }
+            },
+            "【离散数学】": {
+                "type": "folder",
+                "children": {
+                    "离散数学.zip": {
+                        "type": "file"
+                    },
+                    "PPT中的离散数学证明.pdf": {
+                        "type": "file"
+                    }
+                }
+            },
+            "【理论力学】": {
+                "type": "folder",
+                "children": {
+                    "18-19 理论力学I 期中试卷(1).pdf": {
+                        "type": "file"
+                    },
+                    "【陈无凡】理力A下课件.rar": {
+                        "type": "file"
+                    },
+                    "理力答案.zip": {
+                        "type": "file"
+                    },
+                    "理论力学2-A卷答案（计算题第一题梁AO长改为2r）.pdf": {
+                        "type": "file"
+                    },
+                    "理论力学答案（23级适用）.pdf": {
+                        "type": "file"
+                    },
+                    "理论力学（第3版）.pdf": {
+                        "type": "file"
+                    },
+                    "理论力学练习册（第3版）.pdf": {
+                        "type": "file"
+                    },
+                    "理论力学-摩擦实验.docx": {
+                        "type": "file"
+                    },
+                    "理论力学实验报告.pdf": {
+                        "type": "file"
+                    },
+                    "理论力学真题.pdf": {
+                        "type": "file"
+                    },
+                    "理论力学转动惯量实验.docx": {
+                        "type": "file"
+                    },
+                    "理论力学作业答案 版本3 .pdf": {
+                        "type": "file"
+                    },
+                    "理论力学作业答案.zip": {
+                        "type": "file"
+                    },
+                    "理论力学C往年试卷.pdf": {
+                        "type": "file"
+                    },
+                    "理论力学Ⅰ期末试卷（A）.pdf": {
+                        "type": "file"
+                    },
+                    "摩擦&转动实验讲义.pdf": {
+                        "type": "file"
+                    },
+                    "模拟试卷1.pdf": {
+                        "type": "file"
+                    },
+                    "模拟试卷2(1).pdf": {
+                        "type": "file"
+                    },
+                    "同济-理论力学习题精选精解.pdf": {
+                        "type": "file"
+                    },
+                    "gross-engineering mechanics 1-2013.pdf": {
+                        "type": "file"
+                    }
+                }
+            },
+            "【流体力学】": {
+                "type": "folder",
+                "children": {
+                    "流体力学笔记.pdf": {
+                        "type": "file"
+                    },
+                    "流体力学-西安交通大学-景思睿.pdf": {
+                        "type": "file"
+                    }
+                }
+            },
+            "【马原】": {
+                "type": "folder",
+                "children": {
+                    "1_第二章 实践与认识及其发展规律.pdf": {
+                        "type": "file"
+                    },
+                    "2023马克思主义基本原理翻书提纲.pdf": {
+                        "type": "file"
+                    },
+                    "25肖秀荣《精讲精练》.docx": {
+                        "type": "file"
+                    },
+                    "文档.doc": {
+                        "type": "file"
+                    }
+                }
+            },
+            "【毛概】": {
+                "type": "folder",
+                "children": {
+                    "1_徐涛&肖秀荣&腿姐强化课大满贯笔记-毛中特【公众号：一果学长，免费分享】(1)(1).pdf": {
+                        "type": "file"
+                    },
+                    "毛概开卷考试用资料.pdf": {
+                        "type": "file"
+                    },
+                    "毛概.rar": {
+                        "type": "file"
+                    }
+                }
+            },
+            "【模电】": {
+                "type": "folder",
+                "children": {
+                    "期末复习——模拟电子技术.pdf": {
+                        "type": "file"
+                    }
+                }
+            },
+            "【模拟电子技术】": {
+                "type": "folder",
+                "children": {
+                    "复习与考试.pdf": {
+                        "type": "file"
+                    },
+                    "模电要点总结.pdf": {
+                        "type": "file"
+                    }
+                }
+            },
+            "【普化实验】": {
+                "type": "folder",
+                "children": {
+                    "普化实验报告册参考答案（部分）.pdf": {
+                        "type": "file"
+                    }
+                }
+            },
+            "【普通化学】": {
+                "type": "folder",
+                "children": {
+                    "1665364408321.png": {
+                        "type": "file"
+                    },
+                    "7~]T6PS%VEMH`ZS3R[3S[{R.png": {
+                        "type": "file"
+                    },
+                    "第二章例题.pdf": {
+                        "type": "file"
+                    },
+                    "第二章练习1.pdf": {
+                        "type": "file"
+                    },
+                    "第六章 溶液中的化学平衡 (2).pdf": {
+                        "type": "file"
+                    },
+                    "第三章例题.pdf": {
+                        "type": "file"
+                    },
+                    "第五章 溶液与胶体.pdf": {
+                        "type": "file"
+                    },
+                    "化学历年期中期末卷.pdf": {
+                        "type": "file"
+                    },
+                    "讲座笔记_01.jpg": {
+                        "type": "file"
+                    },
+                    "讲座笔记_02.jpg": {
+                        "type": "file"
+                    },
+                    "讲座视频.mp4": {
+                        "type": "file"
+                    },
+                    "普化第2章物质结构.pdf": {
+                        "type": "file"
+                    },
+                    "普通化学例题与习题集.pdf": {
+                        "type": "file"
+                    },
+                    "普通化学期中考试2018-2019学年第一学期(1).pdf": {
+                        "type": "file"
+                    },
+                    "普通化学习题精选精解(1).pdf": {
+                        "type": "file"
+                    },
+                    "【石硕】期末复习.pdf": {
+                        "type": "file"
+                    },
+                    "元素周期律.pdf": {
+                        "type": "file"
+                    },
+                    "A]60{0}8ZG)4H15O(M_`TX2.png": {
+                        "type": "file"
+                    },
+                    "A@HO1J)SJB$6)A2PQCGH5)0.png": {
+                        "type": "file"
+                    },
+                    "I`KYNG_@N]N3(IAI9395SH9.png": {
+                        "type": "file"
+                    },
+                    "Image_1704946308423.jpg": {
+                        "type": "file"
+                    },
+                    "Image_1704946309918.jpg": {
+                        "type": "file"
+                    },
+                    "Image_1704946311198.jpg": {
+                        "type": "file"
+                    },
+                    "Image_1704946312674.jpg": {
+                        "type": "file"
+                    },
+                    "Image_1704946980210.jpg": {
+                        "type": "file"
+                    },
+                    "K%7NN61~_[{A~9ZEYP`(2K1.png": {
+                        "type": "file"
+                    }
+                }
+            },
+            "【汽车理论】": {
+                "type": "folder",
+                "children": {
+                    "2008年汽车理论试卷 (1).pdf": {
+                        "type": "file"
+                    },
+                    "2008年汽车理论试卷.pdf": {
+                        "type": "file"
+                    },
+                    "2011年汽车理论考题.docx": {
+                        "type": "file"
+                    },
+                    "2014年汽车理论考题（小雨哥回忆版）.docx": {
+                        "type": "file"
+                    },
+                    "2019汽车理论考题回忆版.doc": {
+                        "type": "file"
+                    },
+                    "2021~2022A卷 奶盐 汽车理论考试回忆.docx": {
+                        "type": "file"
+                    },
+                    "2021-2022B JBW 汽车理论.pdf": {
+                        "type": "file"
+                    },
+                    "汽车理论题库.pdf": {
+                        "type": "file"
+                    }
+                }
+            },
+            "【人工智能导论（软工）】": {
+                "type": "folder",
+                "children": {
+                    "1_复习资料.pdf": {
+                        "type": "file"
+                    },
+                    "复习笔记.zip": {
+                        "type": "file"
+                    }
+                }
+            },
+            "【人工智能的数学基础】": {
+                "type": "folder",
+                "children": {
+                    "人工智能的数学基础.pdf": {
+                        "type": "file"
+                    }
+                }
+            },
+            "#【软件安装包】": {
+                "type": "folder",
+                "children": {
+                    "Cinema4D": {
+                        "type": "folder",
+                        "children": {
+                            "C4D s25 破解版 中文下载 64位-id：1106591031.rar": {
+                                "type": "file"
+                            },
+                            "Cinema4D_R25_25.xxx简体中文语言包.rar": {
+                                "type": "file"
+                            }
+                        }
+                    },
+                    "Matlab": {
+                        "type": "folder",
+                        "children": {
+                            "R2024b_Update_1_Windows.iso": {
+                                "type": "file"
+                            }
+                        }
+                    },
+                    "Solidworks": {
+                        "type": "folder",
+                        "children": {
+                            "SolidWorks 2024(64bit).zip": {
+                                "type": "file"
+                            }
+                        }
+                    }
+                }
+            },
+            "【数据结构】": {
+                "type": "folder",
+                "children": {
+                    "数据结构课程论文提交说明--2024.docx": {
+                        "type": "file"
+                    },
+                    "数据结构课程设计题目2024.doc": {
+                        "type": "file"
+                    },
+                    "数据结构 王道.pdf": {
+                        "type": "file"
+                    }
+                }
+            },
+            "【数据库】": {
+                "type": "folder",
+                "children": {
+                    "王睿智-数据库技术与应用-是通识课不是计算机专业的.zip": {
+                        "type": "file"
+                    }
+                }
+            },
+            "【数据库原理与应用（软工）】": {
+                "type": "folder",
+                "children": {
+                    "22小测3.docx": {
+                        "type": "file"
+                    },
+                    "23小测3.docx": {
+                        "type": "file"
+                    },
+                    "数据库第二次小测试题回忆.pdf": {
+                        "type": "file"
+                    },
+                    "数据库期末总结.pdf": {
+                        "type": "file"
+                    },
+                    "数据库系统概念第七版课后答案_1-122.pdf": {
+                        "type": "file"
+                    },
+                    "数据库系统概念第七版课后答案_123-225.pdf": {
+                        "type": "file"
+                    },
+                    "数据库系统概念（原书第7版） (Abraham Silberschatz, Henry F. Ko.pdf": {
+                        "type": "file"
+                    }
+                }
+            },
+            "【数学分析】": {
+                "type": "folder",
+                "children": {
+                    "数学分析（荣）2024-2025期中（含答案）.pdf": {
+                        "type": "file"
+                    }
+                }
+            },
+            "【数字电子技术基础】": {
+                "type": "folder",
+                "children": {
+                    "数字电子技术基础学习辅导与习题解答第6版.pdf": {
+                        "type": "file"
+                    }
+                }
+            },
+            "【思想政治】": {
+                "type": "folder",
+                "children": {
+                    "【补充】《思修》2023版知识点.docx": {
+                        "type": "file"
+                    },
+                    "思修目录注解.pdf": {
+                        "type": "file"
+                    },
+                    "同济大学思想政治理论课学生社会实践报告模板（马原理54011120）.docx": {
+                        "type": "file"
+                    },
+                    "同济大学思想政治理论课学生社会实践报告模板 .docx": {
+                        "type": "file"
+                    }
+                }
+            },
+            "【算法设计与分析（软工）】": {
+                "type": "folder",
+                "children": {
+                    "算法笔记.pdf": {
+                        "type": "file"
+                    },
+                    "算法复习.pdf": {
+                        "type": "file"
+                    },
+                    "算法期末复习.pdf": {
+                        "type": "file"
+                    },
+                    "算法设计与分析期末考试.pdf": {
+                        "type": "file"
+                    }
+                }
+            },
+            "【弹性力学】": {
+                "type": "folder",
+                "children": {
+                    "期末-习题课.pdf": {
+                        "type": "file"
+                    }
+                }
+            },
+            "【体育】": {
+                "type": "folder",
+                "children": {
+                    "身体功能训练理论与基础": {
+                        "type": "folder",
+                        "children": {
+                            "身体功能训练理论与基础-1.txt": {
+                                "type": "file"
+                            },
+                            "身体功能训练理论与基础-2.txt": {
+                                "type": "file"
+                            },
+                            "身体功能训练理论与基础-3.txt": {
+                                "type": "file"
+                            },
+                            "身体功能训练理论与基础-4.txt": {
+                                "type": "file"
+                            }
+                        }
+                    },
+                    "2024-2025学年第二学期春季体育课评分标准(1).docx": {
+                        "type": "file"
+                    },
+                    "3_1_体育课评分.pdf": {
+                        "type": "file"
+                    },
+                    "高校体育2答案 (1).docx": {
+                        "type": "file"
+                    },
+                    "高校体育2答案.docx": {
+                        "type": "file"
+                    },
+                    "关于“同济体育刷锻”小程序使用中问题反馈的途径(1).docx": {
+                        "type": "file"
+                    },
+                    "体育(3)-version2.rar": {
+                        "type": "file"
+                    },
+                    "体育理论.rar": {
+                        "type": "file"
+                    },
+                    "体育四理论考试v1.1.pdf": {
+                        "type": "file"
+                    },
+                    "体育四理论考试v1.2.pdf": {
+                        "type": "file"
+                    },
+                    "体育四理论考试v1.3.pdf": {
+                        "type": "file"
+                    },
+                    "体育四理论考试v1.4.pdf": {
+                        "type": "file"
+                    },
+                    "体育四文案.docx": {
+                        "type": "file"
+                    },
+                    "运动营养与健康-秦黎黎-formated.md": {
+                        "type": "file"
+                    }
+                }
+            },
+            "【土木大二实习】": {
+                "type": "folder",
+                "children": {
+                    "070482d452a6ab225169024e19ffc209.jpg": {
+                        "type": "file"
+                    },
+                    "23a8472aef0d44298596ae3f6453b4ed.jpg": {
+                        "type": "file"
+                    },
+                    "842540ac5909f8ebb6f579412003ed7b.jpg": {
+                        "type": "file"
+                    },
+                    "测量实习.zip": {
+                        "type": "file"
+                    },
+                    "扫描全能王 2025-08-27 21.05.pdf": {
+                        "type": "file"
+                    },
+                    "土木-大二下.zip": {
+                        "type": "file"
+                    },
+                    "a5814e14e8e79ed54ad43c49080b3f8a.jpg": {
+                        "type": "file"
+                    },
+                    "bc35e5d062cfe3eb9c0aeb09748cbca5.jpg": {
+                        "type": "file"
+                    },
+                    "d4cc9c6d47c4b9c694f2cf7b87ec76b7.jpg": {
+                        "type": "file"
+                    },
+                    "daeb3767a72d7172005d414077510a84.jpg": {
+                        "type": "file"
+                    },
+                    "f1f0e483c1af5b228e99a9eac8b3827a.jpg": {
+                        "type": "file"
+                    },
+                    "f2d5ee409ce70a6337b38f71dc996534.jpg": {
+                        "type": "file"
+                    }
+                }
+            },
+            "【土木工程材料】": {
+                "type": "folder",
+                "children": {
+                    "混凝土.pdf": {
+                        "type": "file"
+                    },
+                    "凝胶材料，石膏.pdf": {
+                        "type": "file"
+                    },
+                    "凝胶材料，石灰.pdf": {
+                        "type": "file"
+                    },
+                    "凝胶材料，水泥.pdf": {
+                        "type": "file"
+                    },
+                    "石材.pdf": {
+                        "type": "file"
+                    },
+                    "土木材料实验.pdf": {
+                        "type": "file"
+                    },
+                    "土木工程材料 第3版 (吴科如，张雄主编, 主编吴科如_ (Z-Library).pdf": {
+                        "type": "file"
+                    }
+                }
+            },
+            "【土木认识学习】": {
+                "type": "folder",
+                "children": {
+                    "土木认识实习.docx": {
+                        "type": "file"
+                    }
+                }
+            },
+            "【线性代数】": {
+                "type": "folder",
+                "children": {
+                    "【韩建智】线性代数课件.rar": {
+                        "type": "file"
+                    },
+                    "同济-线性代数附册 学习辅导与习题全解.pdf": {
+                        "type": "file"
+                    },
+                    "同济-线性代数.pdf": {
+                        "type": "file"
+                    },
+                    "线代期末.zip": {
+                        "type": "file"
+                    },
+                    "线代MOOC期末测试.pdf": {
+                        "type": "file"
+                    },
+                    "线性代数复习与总结.pdf": {
+                        "type": "file"
+                    },
+                    "线性代数及其应用.pdf": {
+                        "type": "file"
+                    },
+                    "线性代数-期末试卷.rar": {
+                        "type": "file"
+                    },
+                    "线性代数同济大学MOOC答案.pdf": {
+                        "type": "file"
+                    },
+                    "线性代数重要结论大全.doc": {
+                        "type": "file"
+                    },
+                    "【原电池的ZrO2】线代考前速记.pdf": {
+                        "type": "file"
+                    },
+                    "Introduction to Linear Algebra 5th.pdf": {
+                        "type": "file"
+                    },
+                    "Introduction to Linear Algebra 5th - Solutions.pdf": {
+                        "type": "file"
+                    }
+                }
+            },
+            "【形势与政策】": {
+                "type": "folder",
+                "children": {}
+            },
+            "【选课】": {
+                "type": "folder",
+                "children": {
+                    "乌龙茶2023-09-03.docx": {
+                        "type": "file"
+                    },
+                    "乌龙茶2023-09-03.pdf": {
+                        "type": "file"
+                    },
+                    "新生第一次选课注意事项和建议.pdf": {
+                        "type": "file"
+                    }
+                }
+            },
+            "#【选修课】": {
+                "type": "folder",
+                "children": {
+                    "【新概念武器】": {
+                        "type": "folder",
+                        "children": {
+                            "新概念武器.docx": {
+                                "type": "file"
+                            },
+                            "新概念武器.png": {
+                                "type": "file"
+                            }
+                        }
+                    },
+                    "【星期音乐会】": {
+                        "type": "folder",
+                        "children": {
+                            "2024上星期音乐会单元测试答案.txt": {
+                                "type": "file"
+                            },
+                            "【链接】更全的期末答案-GitHub.txt": {
+                                "type": "file"
+                            },
+                            "星期音乐会答案.docx": {
+                                "type": "file"
+                            },
+                            "星期音乐会智慧树知到期末考试答案同济大学.docx": {
+                                "type": "file"
+                            }
+                        }
+                    }
+                }
+            },
+            "#【英语】": {
+                "type": "folder",
+                "children": {
+                    "【学术英语（文科类）】": {
+                        "type": "folder",
+                        "children": {}
+                    },
+                    "【CET四六级】": {
+                        "type": "folder",
+                        "children": {}
+                    },
+                    "2023年12月同济大学英语水平考试参考答案.docx": {
+                        "type": "file"
+                    }
+                }
+            },
+            "【有机化学】": {
+                "type": "folder",
+                "children": {
+                    "2016-2017无答案.pdf": {
+                        "type": "file"
+                    },
+                    "2016-2017.pdf": {
+                        "type": "file"
+                    },
+                    "2019-2020.pdf": {
+                        "type": "file"
+                    },
+                    "2023秋有机期中（答案）.pdf": {
+                        "type": "file"
+                    },
+                    "2023秋有机期中（无答案）.pdf": {
+                        "type": "file"
+                    },
+                    "有机化学_202506111651_55605.pdf": {
+                        "type": "file"
+                    },
+                    "有机化学期末考试资料及答案.pdf": {
+                        "type": "file"
+                    }
+                }
+            },
+            "【运筹学】": {
+                "type": "folder",
+                "children": {
+                    "土木运筹学期中试卷和答案.pdf": {
+                        "type": "file"
+                    },
+                    "运筹学(本科第4版) (《运筹学》教材编写组) (Z-Library).pdf": {
+                        "type": "file"
+                    }
+                }
+            },
+            "【杂项】": {
+                "type": "folder",
+                "children": {
+                    "2022级各大类热度排序表.pdf": {
+                        "type": "file"
+                    },
+                    "2022级所有专业热度表.pdf": {
+                        "type": "file"
+                    },
+                    "2024年8月14日同济大学跨校区搬迁计划明细表（后勤处、后勤公司学生社区中心）.xlsx": {
+                        "type": "file"
+                    },
+                    "23级本科生主修专业确认咨询方式汇总表.docx": {
+                        "type": "file"
+                    },
+                    "对正则表达式的基础内容进行一个速的通.pdf": {
+                        "type": "file"
+                    },
+                    "给大家的信息素养入门指南.pdf": {
+                        "type": "file"
+                    },
+                    "《跟Wakaba酱一起学Git使用》 (湊川あい) (Z-Library).pdf": {
+                        "type": "file"
+                    },
+                    "关于同济大学信息类专业分流.pdf": {
+                        "type": "file"
+                    },
+                    "上海高校2023级大学生安全教育网络教学和标准化考试考核要求及操作说明.docx": {
+                        "type": "file"
+                    },
+                    "土木暑假实践.pdf": {
+                        "type": "file"
+                    },
+                    "文献检索教程.zip": {
+                        "type": "file"
+                    },
+                    "物理化学实验论文模板.doc": {
+                        "type": "file"
+                    },
+                    "新生手册.pdf": {
+                        "type": "file"
+                    },
+                    "信息类内转专业指南 - 张尧.pdf": {
+                        "type": "file"
+                    },
+                    "LaTeX简单教程.pdf": {
+                        "type": "file"
+                    },
+                    "Origin2021_.zip": {
+                        "type": "file"
+                    },
+                    "Origin下载安装教程.pdf": {
+                        "type": "file"
+                    },
+                    "PPT模板.rar": {
+                        "type": "file"
+                    }
+                }
+            },
+            "【智能测绘】": {
+                "type": "folder",
+                "children": {
+                    "智能测绘.zip": {
+                        "type": "file"
+                    }
+                }
+            },
+            "【智能信息处理】": {
+                "type": "folder",
+                "children": {
+                    "070482d452a6ab225169024e19ffc209.jpg": {
+                        "type": "file"
+                    },
+                    "23a8472aef0d44298596ae3f6453b4ed.jpg": {
+                        "type": "file"
+                    },
+                    "842540ac5909f8ebb6f579412003ed7b.jpg": {
+                        "type": "file"
+                    },
+                    "点云数据驱动的建筑群轮廓图快速生成.zip": {
+                        "type": "file"
+                    },
+                    "扫描全能王 2025-08-27 21.05.pdf": {
+                        "type": "file"
+                    },
+                    "实验五 2353065 周连硕.zip": {
+                        "type": "file"
+                    },
+                    "智能信息处理(上)实验.zip": {
+                        "type": "file"
+                    },
+                    "a5814e14e8e79ed54ad43c49080b3f8a.jpg": {
+                        "type": "file"
+                    },
+                    "bc35e5d062cfe3eb9c0aeb09748cbca5.jpg": {
+                        "type": "file"
+                    },
+                    "CNN work-1.zip": {
+                        "type": "file"
+                    },
+                    "d4cc9c6d47c4b9c694f2cf7b87ec76b7.jpg": {
+                        "type": "file"
+                    },
+                    "daeb3767a72d7172005d414077510a84.jpg": {
+                        "type": "file"
+                    },
+                    "f1f0e483c1af5b228e99a9eac8b3827a.jpg": {
+                        "type": "file"
+                    },
+                    "f2d5ee409ce70a6337b38f71dc996534.jpg": {
+                        "type": "file"
+                    },
+                    "kmeans.zip": {
+                        "type": "file"
+                    }
+                }
+            },
+            "【C & C++程序设计】": {
+                "type": "folder",
+                "children": {
+                    "第二章认识程序基本结构.pdf": {
+                        "type": "file"
+                    },
+                    "彭睿c语言课件.zip": {
+                        "type": "file"
+                    },
+                    "CC++程序设计第1章.pptx": {
+                        "type": "file"
+                    },
+                    "CC++程序设计第2章.pptx": {
+                        "type": "file"
+                    },
+                    "CC++程序设计第3章.pptx": {
+                        "type": "file"
+                    }
+                }
+            },
+            "【MATLAB】": {
+                "type": "folder",
+                "children": {
+                    "MATLAB基础及工程应用 - 20240723.pdf": {
+                        "type": "file"
+                    }
+                }
+            },
+            "【Python】": {
+                "type": "folder",
+                "children": {
+                    "2023-2024第2学期期末考试A卷.ipynb": {
+                        "type": "file"
+                    },
+                    "3-聚类(1).pptx": {
+                        "type": "file"
+                    },
+                    "同济-Python讲义（上）.2022秋.pdf": {
+                        "type": "file"
+                    },
+                    "matplotlib.pdf": {
+                        "type": "file"
+                    },
+                    "numpy.pdf": {
+                        "type": "file"
+                    },
+                    "python(马如进）.zip": {
+                        "type": "file"
+                    }
+                }
+            }
+        }
+    }
+}
